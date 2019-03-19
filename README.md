@@ -6,6 +6,6 @@
 
 ### write arduino/skech_stepper_controler/skech_stepper_controler.ino to arduino of stepper.
 
-### put joy.launch under HOME PC.
+### put ros_start/launch/joy.launch and ros_start/scripts/joy/joy_stick.py under HOME PC.
 
 ### put joy_arduino.launch under Raspberry-pi.
