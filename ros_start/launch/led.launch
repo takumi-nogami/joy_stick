@@ -1,4 +1,0 @@
-<launch>
-  <node pkg="ros_start" name="led_Twit" type="led_wsit.py">
-  <node pkg="rosserial_python" name="" type="serial_node.python" >
-</launch>
